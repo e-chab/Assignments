@@ -8,6 +8,7 @@ This project implements and compares different versions of the "Trick or Treat" 
   - Simple reference implementation using C standard library no real test made
 
 - **[in_cpp/](in_cpp/)** - Sequential C++ implementation 
+  - Implementation of the sequencial algorithm using a sliding window
 
 - **[openMP/](openMP/)** - Parallel OpenMP implementation
   - Multi-threaded version of a brute force algorithm using OpenMP pragmas
